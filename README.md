@@ -38,7 +38,8 @@ Dataset Source
 Credit Risk Dataset, Kaggle
 
 Author
-Ngan
+
+Ngan - 
 Linkedin: www.linkedin.com/in/anarddoan
 
 
