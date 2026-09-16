@@ -1,5 +1,6 @@
-# Credit-risk-analysis
+# Credit-risk-analysis 
 EDA and predictive modeling on a credit risk dataset
+This project explores what makes a borrower likely to default on a loan, and builds a model that catches 79% of risky borrowers.
 Overview
 This project analyzes a Kaggle credit risk dataset of 32,581 loan applications to identify the borrower and loan characteristics most associated with default, and builds a logistic regression model to support lending decisions. The analysis is structured around the 5C credit risk framework (Character, Capacity, Capital, Collateral, Conditions).
 
